@@ -29,4 +29,7 @@ dependencies:
     - beautifulsoup4
     - urllib3
     - lxml
+    - yfinance
+    - pandas_datareader
+    - plotly
 
